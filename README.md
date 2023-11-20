@@ -1,2 +1,2 @@
 # Todo
-A Fully Functional Responsive TODO website with the option of 'save onto your Local Server'. A TODO Web App!
+An intuitive, responsive TODO web application with seamless local server saving capability—a robust solution to manage tasks efficiently and securely.
