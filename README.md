@@ -9,6 +9,10 @@ A Fully Functional Responsive TODO website with the option of 'save onto your Lo
 - **Local Server Save**: Allows users to securely store their tasks on a local server.
 - **User-friendly Interface**: Simple and intuitive design for an enjoyable user experience.
 
+## Screenshots
+<p align="center"><img src="https://github.com/immadhav31/Todo/blob/main/SS.png"/></p>
+<p align="center"><img src="https://github.com/immadhav31/Todo/blob/main/SS2.png"/></p>
+
 ## Usage
 1. Clone the repository.
 2. Open the `index.html` file in your web browser.
