@@ -1,7 +1,7 @@
 # TODO Web App
 
 ## Overview
-A Fully Functional Responsive TODO website with the option of 'save onto your Local Server'. This web application allows users to manage tasks efficiently, providing a seamless experience with the ability to save tasks securely onto a local server.
+A Fully Functional Responsive TODO website with the option to 'save tasks to local storage'. This web application allows users to efficiently manage tasks and provides a seamless experience with the ability to securely save tasks locally within the user's browser.
 
 ## Features
 - **Responsive Design**: Ensures optimal viewing and interaction experience across various devices and screen sizes.
